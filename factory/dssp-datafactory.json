@@ -1,0 +1,15 @@
+{
+	"name": "dssp-datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2f85f78-d6fa-49d8-b918-1ee008ef6a52",
+		"tenantId": "317f37ca-f1a5-403b-9962-005c0b2c7806"
+	}
+}
