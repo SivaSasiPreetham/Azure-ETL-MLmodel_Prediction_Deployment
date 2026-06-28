@@ -8,12 +8,11 @@
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
-			"sheetName": "Tutoring Dataset",
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "Tutoring_Dataset_with_Date.xlsx",
-				"folderPath": "Excel Data",
-				"fileSystem": "bronze"
+				"folderPath": "excel data",
+				"fileSystem": "data"
 			},
 			"firstRowAsHeader": true
 		},
