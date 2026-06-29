@@ -1,5 +1,5 @@
 {
-	"name": "B",
+	"name": "Parameterized Incremental Backfill Pipeline",
 	"properties": {
 		"activities": [
 			{
